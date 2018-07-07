@@ -6,7 +6,7 @@
   <link href="/hexo_3/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-06-17T05:30:18.253Z</updated>
+  <updated>2018-07-07T05:32:05.600Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,9 +17,29 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>blog-0707A1</title>
+    <link href="http://yoursite.com/2018/07/blog-0707A1/"/>
+    <id>http://yoursite.com/2018/07/blog-0707A1/</id>
+    <published>2018-07-07T01:38:26.000Z</published>
+    <updated>2018-07-07T05:32:05.600Z</updated>
+    
+    <content type="html"><![CDATA[<p>内容　blog-0707-A1<br><a id="more"></a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;内容　blog-0707-A1&lt;br&gt;
+    
+    </summary>
+    
+      <category term="blog" scheme="http://yoursite.com/categories/blog/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>infomation-0617-A3</title>
-    <link href="http://yoursite.com/2018/06/17/infomation-0617-A3/"/>
-    <id>http://yoursite.com/2018/06/17/infomation-0617-A3/</id>
+    <link href="http://yoursite.com/2018/06/infomation-0617-A3/"/>
+    <id>http://yoursite.com/2018/06/infomation-0617-A3/</id>
     <published>2018-06-17T05:29:19.000Z</published>
     <updated>2018-06-17T05:30:18.253Z</updated>
     
@@ -42,8 +62,8 @@
   
   <entry>
     <title>infomation-0617-A2</title>
-    <link href="http://yoursite.com/2018/06/17/infomation-0617-A2/"/>
-    <id>http://yoursite.com/2018/06/17/infomation-0617-A2/</id>
+    <link href="http://yoursite.com/2018/06/infomation-0617-A2/"/>
+    <id>http://yoursite.com/2018/06/infomation-0617-A2/</id>
     <published>2018-06-17T05:01:37.000Z</published>
     <updated>2018-06-17T05:09:21.310Z</updated>
     
@@ -62,8 +82,8 @@
   
   <entry>
     <title>infomation-0617-A1</title>
-    <link href="http://yoursite.com/2018/06/17/infomation-0617-A1/"/>
-    <id>http://yoursite.com/2018/06/17/infomation-0617-A1/</id>
+    <link href="http://yoursite.com/2018/06/infomation-0617-A1/"/>
+    <id>http://yoursite.com/2018/06/infomation-0617-A1/</id>
     <published>2018-06-17T05:01:27.000Z</published>
     <updated>2018-06-17T05:08:01.701Z</updated>
     
@@ -82,8 +102,8 @@
   
   <entry>
     <title>blog-0616-A2</title>
-    <link href="http://yoursite.com/2018/06/17/blog-0616-A2/"/>
-    <id>http://yoursite.com/2018/06/17/blog-0616-A2/</id>
+    <link href="http://yoursite.com/2018/06/blog-0616-A2/"/>
+    <id>http://yoursite.com/2018/06/blog-0616-A2/</id>
     <published>2018-06-17T05:00:41.000Z</published>
     <updated>2018-06-17T05:05:04.314Z</updated>
     
@@ -102,8 +122,8 @@
   
   <entry>
     <title>blog-0616-A1</title>
-    <link href="http://yoursite.com/2018/06/17/blog-0616-A1/"/>
-    <id>http://yoursite.com/2018/06/17/blog-0616-A1/</id>
+    <link href="http://yoursite.com/2018/06/blog-0616-A1/"/>
+    <id>http://yoursite.com/2018/06/blog-0616-A1/</id>
     <published>2018-06-17T05:00:35.000Z</published>
     <updated>2018-06-17T05:04:08.490Z</updated>
     
@@ -122,8 +142,8 @@
   
   <entry>
     <title>投稿ー０６１６Ｂ１</title>
-    <link href="http://yoursite.com/2018/06/16/%E6%8A%95%E7%A8%BF%E3%83%BC%EF%BC%90%EF%BC%96%EF%BC%91%EF%BC%96B%EF%BC%91/"/>
-    <id>http://yoursite.com/2018/06/16/投稿ー０６１６B１/</id>
+    <link href="http://yoursite.com/2018/06/%E6%8A%95%E7%A8%BF%E3%83%BC%EF%BC%90%EF%BC%96%EF%BC%91%EF%BC%96B%EF%BC%91/"/>
+    <id>http://yoursite.com/2018/06/投稿ー０６１６B１/</id>
     <published>2018-06-16T06:36:03.000Z</published>
     <updated>2018-06-17T04:05:41.660Z</updated>
     
@@ -144,8 +164,8 @@
   
   <entry>
     <title>My 0616-A12 Post</title>
-    <link href="http://yoursite.com/2018/06/16/My-0616-A12-Post/"/>
-    <id>http://yoursite.com/2018/06/16/My-0616-A12-Post/</id>
+    <link href="http://yoursite.com/2018/06/My-0616-A12-Post/"/>
+    <id>http://yoursite.com/2018/06/My-0616-A12-Post/</id>
     <published>2018-06-16T06:04:34.000Z</published>
     <updated>2018-06-16T08:50:26.324Z</updated>
     
@@ -164,8 +184,8 @@
   
   <entry>
     <title>My 0616-A11 Post</title>
-    <link href="http://yoursite.com/2018/06/16/My-0616-A11-Post/"/>
-    <id>http://yoursite.com/2018/06/16/My-0616-A11-Post/</id>
+    <link href="http://yoursite.com/2018/06/My-0616-A11-Post/"/>
+    <id>http://yoursite.com/2018/06/My-0616-A11-Post/</id>
     <published>2018-06-16T03:03:31.000Z</published>
     <updated>2018-06-16T03:04:26.745Z</updated>
     
@@ -189,10 +209,10 @@
   
   <entry>
     <title>My 2nd Post</title>
-    <link href="http://yoursite.com/2018/06/16/My-2nd-Post/"/>
-    <id>http://yoursite.com/2018/06/16/My-2nd-Post/</id>
+    <link href="http://yoursite.com/2018/06/My-2nd-Post/"/>
+    <id>http://yoursite.com/2018/06/My-2nd-Post/</id>
     <published>2018-06-15T23:55:06.000Z</published>
-    <updated>2018-06-17T06:57:12.039Z</updated>
+    <updated>2018-07-07T01:40:48.758Z</updated>
     
     <content type="html"><![CDATA[<p>写真付きのサンプル<br><a id="more"></a><br><img src="/hexo_3/2018/06/16/My-2nd-Post/sara1.jpg" alt="alt" title="alt"></p>]]></content>
     
@@ -202,7 +222,7 @@
     
     </summary>
     
-      <category term="news" scheme="http://yoursite.com/categories/news/"/>
+      <category term="blog" scheme="http://yoursite.com/categories/blog/"/>
     
     
   </entry>
